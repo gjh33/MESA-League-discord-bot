@@ -4,3 +4,5 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'discordrb'
+gem 'pry'
+gem 'pry-byebug'
