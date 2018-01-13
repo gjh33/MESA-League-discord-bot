@@ -4,5 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'discordrb'
+gem 'rufus-scheduler'
+gem 'dotenv'
 gem 'pry'
 gem 'pry-byebug'
